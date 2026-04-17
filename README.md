@@ -36,7 +36,7 @@ graph TD;
 ![NGINX UI](screenshots/nginx-ui.png)
 
 ### Monitoring Dashboard
-![Netdata](screenshots/Screenshot (155).png)
+![Netdata](screenshots/Screenshot%20(155).png)
 
 ### Terminal Output
 ![Terminal](screenshots/terminal-status.png)
