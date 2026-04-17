@@ -32,14 +32,23 @@ graph TD;
 
 ## 📸 Screenshots
 
-### Web UI
-![NGINX UI](screenshots/nginx-ui.png)
-
 ### Monitoring Dashboard
 ![Netdata](screenshots/Screenshot%20(155).png)
 
-### Terminal Output
-![Terminal](screenshots/terminal-status.png)
+### Monitoring Dashboard
+![Netdata](screenshots/Screenshot%20(156).png)
+
+### Monitoring Dashboard
+![Netdata](screenshots/Screenshot%20(159).png)
+
+### Monitoring Dashboard
+![Netdata](screenshots/Screenshot%20(160).png)
+
+### Monitoring Dashboard
+![Netdata](screenshots/Screenshot%20(166).png)
+
+
+
 
 ---
 
